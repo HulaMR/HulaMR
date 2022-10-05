@@ -22,6 +22,8 @@
 
 ### [:minidisc:Django Soundcloud](https://github.com/HulaMR/django_sound_cloud)
 
+### [:notebook:Vue-Django ToDo](https://github.com/HulaMR/Vue-Django)
+
 # Follow me :alien:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/Hy_He)
