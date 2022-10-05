@@ -12,6 +12,12 @@
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![VUE](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=vuedotjs)
 
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/Hy_He)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mykhailo-hula)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/misha_hula?igshid=YmMyMTA2M2Y=)
+
 <!--
 **HulaMR/HulaMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
