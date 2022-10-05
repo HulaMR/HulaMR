@@ -18,9 +18,9 @@
 
 ### [:pizza:React Pizza](https://github.com/HulaMR/react-pizza)
 
-### [:shirt:React T-Shirt Shop](https://github.com/HulaMR/react-t-shirt)
+### [:house_with_garden:Django Real Estate](https://github.com/HulaMR/django_proj)
 
-### [:shirt:React T-Shirt Shop](https://github.com/HulaMR/react-t-shirt)
+### [:minidisc:Django Soundcloud](https://github.com/HulaMR/django_sound_cloud)
 
 # Follow me :cat2:
 
