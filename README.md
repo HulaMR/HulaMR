@@ -1,6 +1,6 @@
 [![Header](https://github.com/HulaMR/HulaMR/blob/main/assets/Header.png)](https://www.work.ua/resumes/8152307/)
 
-### Languges and Tools
+# Languges and Tools :computer:
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![JS](https://img.shields.io/badge/-JS-000?style=for-the-badge&logo=javascript)
@@ -12,7 +12,7 @@
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![VUE](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=vuedotjs)
 
-### Follow me
+# Follow me :cat2:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/Hy_He)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mykhailo-hula)
