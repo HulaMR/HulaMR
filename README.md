@@ -15,7 +15,7 @@
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/Hy_He)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mykhailo-hula)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mykhailo-hula)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/misha_hula?igshid=YmMyMTA2M2Y=)
 
 <!--
