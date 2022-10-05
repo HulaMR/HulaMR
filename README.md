@@ -1,4 +1,4 @@
-[![Header](https://github.com/HulaMR/HulaMR/blob/main/assets/Header.png)](www.work.ua/resumes/8152307/)
+[![Header](https://github.com/HulaMR/HulaMR/blob/main/assets/Header.png)](https://www.work.ua/resumes/8152307/)
 
 ### Hi there 👋
 
