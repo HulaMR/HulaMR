@@ -11,6 +11,10 @@
 ![DRF](https://img.shields.io/badge/-DRF-000?style=for-the-badge&logo=django)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![VUE](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=vuedotjs)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=sqlite)
+![Celery](https://img.shields.io/badge/-Celery-000?style=for-the-badge&logo=celery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 # My projects :computer:
 
