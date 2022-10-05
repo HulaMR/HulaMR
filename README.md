@@ -14,7 +14,7 @@
 
 # My projects
 
-### [:shirt:React T-Shirt Shop](https://github.com/HulaMR/react-t-shirt) https://react-t-shirt.vercel.app/
+### [:shirt:React T-Shirt Shop](https://github.com/HulaMR/react-t-shirt) :arrow_right: https://react-t-shirt.vercel.app/
 
 ### [:pizza:React Pizza](https://github.com/HulaMR/react-pizza)
 
