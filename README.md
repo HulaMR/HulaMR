@@ -12,9 +12,9 @@
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![VUE](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=vuedotjs)
 
-| My projects |         |
-| ----------- | ------- |
-|             | :shirt: |
+# My projects
+
+### [React T-Shirt Shop](https://github.com/HulaMR/react-t-shirt) https://react-t-shirt.vercel.app/
 
 # Follow me :cat2:
 
