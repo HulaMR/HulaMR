@@ -14,7 +14,7 @@
 
 # My projects
 
-### [React T-Shirt Shop](https://github.com/HulaMR/react-t-shirt) https://react-t-shirt.vercel.app/
+### [:shirt:React T-Shirt Shop](https://github.com/HulaMR/react-t-shirt) https://react-t-shirt.vercel.app/
 
 # Follow me :cat2:
 
