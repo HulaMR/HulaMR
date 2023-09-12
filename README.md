@@ -21,7 +21,7 @@
 
 ### [:shirt:React T-Shirt Shop](https://github.com/HulaMR/react-t-shirt) :arrow_right: https://react-t-shirt.vercel.app/
 
-### [:pizza:React Pizza](https://github.com/HulaMR/react-pizza)
+### [:pizza:React Pizza](https://github.com/HulaMR/react-pizza) :arrow_right: react-pizza-hulamr.vercel.app/
 
 ### [:house_with_garden:Django Real Estate](https://github.com/HulaMR/django_proj)
 
